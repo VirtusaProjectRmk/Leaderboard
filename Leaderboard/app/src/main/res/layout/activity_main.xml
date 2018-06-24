@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_margin="5dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/lb"/>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <TextView
+                android:id="@+id/Header1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="Aaryan          "
+                android:textAlignment="center"
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/m1"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="53          "/>
+            <TextView
+                android:id="@+id/d1"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Chennai"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <TextView
+                android:id="@+id/Header2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="Atreya          "
+                android:textAlignment="center"
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/m2"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="50          "/>
+            <TextView
+                android:id="@+id/d2"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Chennai"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <TextView
+                android:id="@+id/Header3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="Kavita          "
+                android:textAlignment="center"
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/m3"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="49          "/>
+            <TextView
+                android:id="@+id/d3"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Bangalore"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <TextView
+                android:id="@+id/Header4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="Sanjay          "
+                android:textAlignment="center"
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/m4"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="47          "/>
+            <TextView
+                android:id="@+id/d4"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Chennai"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <TextView
+                android:id="@+id/Header6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="Soumya          "
+                android:textAlignment="center"
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/m6"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="42          "/>
+            <TextView
+                android:id="@+id/d5"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Hyderabad"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+    <android.support.v7.widget.CardView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_margin="5dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp">
+            <TextView
+                android:id="@+id/Header7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="monospace"
+                android:text="Karthi          "
+                android:textAlignment="center"
+                android:textAppearance="@android:style/TextAppearance.Widget.TextView"
+                android:textSize="16sp"
+                android:textStyle="bold"/>
+            <TextView
+                android:id="@+id/m7"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="41          "/>
+            <TextView
+                android:id="@+id/d7"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="Delhi"/>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
